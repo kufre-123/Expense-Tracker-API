@@ -65,7 +65,7 @@ http://127.0.0.1:8000/docs
 
 ---
 
-## 📌 API Endpoints
+## API Endpoints
 
 * POST `/expenses/` → Create an expense
 * GET `/expenses/` → Retrieve all expenses
@@ -74,7 +74,7 @@ http://127.0.0.1:8000/docs
 
 ---
 
-## 🎯 What I Learned
+## What I Learned
 
 * Building REST APIs using FastAPI
 * Structuring backend applications
